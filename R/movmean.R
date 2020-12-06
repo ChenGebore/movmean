@@ -1,4 +1,3 @@
-#' @export 
 movmean_R <- function(x, halfwin) {
 m<-halfwin
 n<-length(x)
